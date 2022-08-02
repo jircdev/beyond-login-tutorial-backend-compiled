@@ -4,6 +4,10 @@
   "description": "Tutorial ",
   "keywords": [],
   "static": {},
+  "engine": {
+    "node": "16.0.0"
+  },
+  "main": "start.js",
   "exports": {
     "./actions.specs.json": "./actions.specs.json",
     "./@beyond/web-tutorial/auth": "./@beyond/web-tutorial/auth.js",
