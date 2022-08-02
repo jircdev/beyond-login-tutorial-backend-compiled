@@ -1,0 +1,16 @@
+[
+  [
+    "@beyond/web-tutorial/auth",
+    [
+      [
+        "Auth",
+        [
+          [
+            "login",
+            {}
+          ]
+        ]
+      ]
+    ]
+  ]
+]

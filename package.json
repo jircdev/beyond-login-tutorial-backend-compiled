@@ -1,0 +1,24 @@
+{
+  "name": "@beyond/web-tutorial",
+  "version": 1,
+  "description": "Tutorial ",
+  "keywords": [],
+  "static": {},
+  "exports": {
+    "./actions.specs.json": "./actions.specs.json",
+    "./@beyond/web-tutorial/auth": "./@beyond/web-tutorial/auth.js",
+    "./@beyond/web-tutorial/home": "./@beyond/web-tutorial/home.js",
+    "./@beyond/web-tutorial/layout/main": "./@beyond/web-tutorial/layout/main.js",
+    "./@beyond/web-tutorial/welcome": "./@beyond/web-tutorial/welcome.js"
+  },
+  "dependencies": {
+    "@beyond-js/backend": "^0.0.9",
+    "@beyond-js/react-widgets": "^18.18.1"
+  },
+  "uimport": [
+    "@beyond-js/kernel/bundle",
+    "@beyond-js/react-widgets/controllers",
+    "react"
+  ],
+  "clientDependencies": []
+}
