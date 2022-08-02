@@ -4,7 +4,7 @@
   "description": "Tutorial ",
   "keywords": [],
   "static": {},
-  "engine": {
+  "engines": {
     "node": "16.0.0"
   },
   "main": "start.js",
